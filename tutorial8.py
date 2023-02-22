@@ -1,0 +1,10 @@
+str = "Hey my name is deven"
+print(len(str))
+print(str[0:20:1])
+print(str.endswith("deven"))
+print(str.count("e"))
+print(str.capitalize())
+print(str.find("is"))
+print(str.lower())
+print(str.upper())
+print(str.replace("is", "are"))

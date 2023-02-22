@@ -1,0 +1,5 @@
+f = open("deven.txt")
+print(f.readline())
+print(f.tell())
+f.seek(6)
+f.close()

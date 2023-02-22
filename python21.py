@@ -1,0 +1,7 @@
+print("5 + 6 is ", 5 + 6)
+print("5 - 6 is ", 5 - 6)
+print("5 * 6 is ", 5 * 6)
+print("5 / 6 is ", 5 / 6)
+print("5 // 6 is ", 5 // 6)
+print("5 % 6 is ", 5 % 6)
+print("5 to the power 2 is ", 5**2)

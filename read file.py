@@ -1,0 +1,5 @@
+f = open("deven.txt", "rt")
+# content = f.read()
+# print(content)
+print(f.readline())
+f.close()

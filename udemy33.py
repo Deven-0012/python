@@ -1,0 +1,5 @@
+print(1<2 and 7>4)
+print(1<2 and 7>9)
+print(5>4 or 8>6)
+print(3>6 or 8>3)
+print(not(9>7))
