@@ -1,0 +1,6 @@
+print(hex(344))
+print(hex(128))
+print(bin(23))
+print(pow(2,8,3))
+print(round(3.45556))
+print(round(3.126,4))
